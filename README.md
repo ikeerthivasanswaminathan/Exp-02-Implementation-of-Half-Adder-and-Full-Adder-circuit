@@ -36,19 +36,52 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+Developed by : KEERTHIVASAN S
 
+Register Number : 23002436
 
-### TRUTH TABLE 
+Code : 
 
-### Result:
+Half Adder :
+
+![Exp3 ha code](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/1f5b70d1-93c7-40e4-888c-2ed8e08a01cd)
+
+Full Adder :
+
+![Exp3 fa code](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/bab483c3-293b-4c9f-b141-b4de63008edd)
+
+Truthtable : 
+
+Half Adder :
+
+![Exp3 truthtable (ha)](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/411a7115-956c-4662-9204-b8c37d3fab96)
+
+Full Adder :
+
+![Exp3 truthtable (fa)](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/1d1cf8a8-f914-4673-9c53-c390f08382cd)
+
+RTL Diagram :
+
+Half Adder :
+
+![Exp3 ha RTL diagram](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/af4aaccc-62f4-4af6-bba0-7b27912ac528)
+
+Full Adder :
+
+![Exp3 fa RTL diagram](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/96fb2937-9a09-42e5-b0b5-b5f86fb8752e)
+
+Output :
+
+Half Adder :
+
+![Exp3 ha wave](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/5596e724-ff5b-4d37-b56f-a8277c8c956d)
+
+Full Adder :
+
+![Exp3 fa wave](https://github.com/ikeerthivasanswaminathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148937372/63481b25-e3e9-42ce-b343-28a0615ded0d)
+
+### Result : 
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
