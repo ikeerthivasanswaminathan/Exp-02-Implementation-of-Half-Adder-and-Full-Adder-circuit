@@ -41,7 +41,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 Developed by : KEERTHIVASAN S
 
-Register Number : 23002436
+Register Number : 212223220046
 
 Code : 
 
